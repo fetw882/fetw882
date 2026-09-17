@@ -1,6 +1,6 @@
 ### Hi, I'm Li Rui (李睿)
 
-Founder at **Chengdu Youjia Xincheng Technology**. I ship **AIGC film pipelines** for short-form and commercial work: camera-locked character replace, preserved camera moves, and identity-stable swaps under motion and lighting.
+I ship **AIGC film pipelines** for short-form and commercial work: camera-locked character replace, preserved camera moves, and identity-stable swaps under motion and lighting.
 
 **Portfolio:** [aigc.youjia2015.com/newbeer](https://aigc.youjia2015.com/newbeer)
 
@@ -13,9 +13,9 @@ Founder at **Chengdu Youjia Xincheng Technology**. I ship **AIGC film pipelines*
 Python · TypeScript · agent tooling · video/AIGC productization
 
 #### Certs (recent)
-Harvard CS50 AI · Elements of AI · OpenAI Academy pathway · Microsoft Applied Skills (in progress)
+Harvard CS50 AI · Elements of AI · OpenAI Academy pathway · Microsoft Learn (AI / agents paths)
 
 #### Contact
 Prefer GitHub issues / PR discussion on shared repos. Commercial work via portfolio site.
 
-<!-- kitchen tool names intentionally omitted from public copy -->
+<!-- no company legal name; no client project list; kitchen tools omitted -->
